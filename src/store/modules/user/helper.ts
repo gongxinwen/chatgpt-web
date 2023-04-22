@@ -15,7 +15,7 @@ export interface UserState {
 export function defaultSetting(): UserState {
   return {
     userInfo: {
-      avatar: 'https://raw.githubusercontent.com/Chanzhaoyu/chatgpt-web/main/src/assets/avatar.jpg',
+      avatar: 'https://gitee.com/lijianwei580/chatgpt-vue/raw/main/src/assets/robot.webp',
       name: 'Utopia',
       description: 'Based on a opensorce project',
     },
