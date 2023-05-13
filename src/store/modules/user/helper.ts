@@ -15,8 +15,8 @@ export interface UserState {
 export function defaultSetting(): UserState {
   return {
     userInfo: {
-      avatar: 'https://gitee.com/lijianwei580/chatgpt-vue/raw/main/src/assets/robot.webp',
-      name: 'Utopia',
+      avatar: 'https://img.wxcha.com/m00/21/32/187b6676378e5bcfe15cd58cea0aa7f3.jpg?down',
+      name: 'gongxingwen',
       description: 'Based on a opensorce project',
     },
   }
